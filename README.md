@@ -1,5 +1,5 @@
 # Des_Technico_Assignment
-# 🛠️ Write_wave Website Testing
+# 🛠️ Website Testing
 
 ## 📌 Project Overview  
 This repository contains comprehensive testing documentation for the  **[Notes_Master](https://notes-makers.vercel.app/)**   website. The testing process covers **functional, usability** aspects, ensuring a seamless user experience.  
