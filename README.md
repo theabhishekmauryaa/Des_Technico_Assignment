@@ -27,7 +27,7 @@ This repository contains comprehensive testing documentation for the  **[Notes_M
 ---
 
 ### 🔹 2. Test Scenarios  
-- Covers different **real-world user interactions** with the Write Wave website.  
+- Covers different **real-world user interactions** with the Notes maker website.  
 - Scenarios include **account creation, login, Create Notes,Write Notes, profile Updates**.  
  ---
 
